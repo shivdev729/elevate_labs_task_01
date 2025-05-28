@@ -5,7 +5,7 @@
 **Scan Method:** TCP SYN Scan (`-sS`) with OS Detection (`-O`)  
 **Scan Date:** May 27, 2025  
 **Tool Used:** Nmap 7.93  
-**Scan results:** ![Scan results](https://github.com/shivdev729/elevate_labs_task_01/blob/main/nmap_scan_results.txt)
+**Scan results:** (https://github.com/shivdev729/elevate_labs_task_01/blob/main/nmap_scan_results.txt)
 
 ![Target network](https://github.com/shivdev729/elevate_labs_task_01/blob/main/p1.JPG)
 
